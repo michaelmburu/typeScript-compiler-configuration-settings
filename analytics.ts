@@ -1,1 +1,3 @@
-console.log('Sending files.......')
+function sendAnalytics(data: string) {
+    console.log('Sending files.......', data)
+}
